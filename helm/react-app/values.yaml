@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: muzzammilhamdu/react-b4-1
+  repository: mujjuacr12333.azurecr.io/react-b4-1
   tag: latest
   pullPolicy: IfNotPresent
 
